@@ -2,7 +2,9 @@
 
 A computer science student from [Bina Nusantara University](https://binus.ac.id/), interested in anything web related, be it the front or back ! 👏
 
-I'm still learning about web stuff, with the focus being on React.JS and Node.JS to make a website.
+Here are some of the things that I'm currently doing
+- Making a simplified twitter clone
+- Learning about web stuff, with the focus being on React.JS and Node.JS
 
 <br/>
 
